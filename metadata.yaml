@@ -1,0 +1,25 @@
+_repo: The-Hilltop-Boys--A-Story-of-School-Life_27751
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27751-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Burleigh, Cyril
+    gutenberg_agent_id: '4732'
+    url: http://www.gutenberg.org/2009/agents/4732
+description: ''
+gutenberg_issued: '2009-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27751'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Military education -- Juvenile fiction'
+- !lcsh 'Schools -- Juvenile fiction'
+title: 'The Hilltop Boys: A Story of School Life'
+url: http://www.gutenberg.org/ebooks/27751
